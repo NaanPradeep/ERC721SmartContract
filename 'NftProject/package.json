@@ -1,0 +1,19 @@
+{
+  "name": "basicnftproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/tx": "^3.3.0",
+    "web3": "^1.5.2"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.3.1",
+    "hardhat": "^2.6.4"
+  }
+}
